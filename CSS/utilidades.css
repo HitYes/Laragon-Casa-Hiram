@@ -1,0 +1,13 @@
+/**@import "bootstrap/scss/utilities";
+
+.div_float {
+    transition: true,
+    single-transition: none float,
+    values: (
+      start: left,
+      end: right,
+      none: none,
+    )
+
+}**/
+
